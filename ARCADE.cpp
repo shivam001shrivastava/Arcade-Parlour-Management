@@ -263,7 +263,7 @@ void player::view_all()
   std::cout<<"\n\n( Hit enter to continue to menu )"<<std::endl;
   getch();
 }
-
+ 
 
 // 5. FUNCTION TO DISPLAY THE RECENTLY ACCESSED RECORDS 
 
